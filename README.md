@@ -1,8 +1,8 @@
-**Name:** PARAM THARUN KUMAR
-**company:** CODTECH IT SOLUTIONS
-**ID:** CT08END
-**Domain:** Full stack Web Development
-**Duration:** Dec 17th 2024 to Jan 17th 2025
+**Name:** PARAM THARUN KUMAR<br>
+**company:** CODTECH IT SOLUTIONS<br>
+**ID:** CT08END<br>
+**Domain:** Full stack Web Development<br>
+**Duration:** Dec 17th 2024 to Jan 17th 2025<br>
 ## Overview of the project
 ## PROJECT: PERSONAL PORTFOLIO WEBSITE WITH BACKEND
 ## Objective: 
@@ -11,9 +11,9 @@ project helps to learn HTML, CSS, JavaScript, and a backend framework like
 Express.js or Flask. Design a responsive frontend using HTML, CSS, and
 JavaScript.
 ## technologies used
-**HTML:** it is the main programming language in full stach development #
-**CSS:** It is used for defining the styles for web pages #
-**Javascript:** It used to create interactive web pages and application#
+**HTML:** it is the main programming language in full stach development <br>
+**CSS:** It is used for defining the styles for web pages <br>
+**Javascript:** It used to create interactive web pages and application<br>
 **![Screenshot (31)](https://github.com/user-attachments/assets/2e70e3be-b14d-49b3-afa2-d63a89e35d1d)** 
 
 **![Screenshot (32)](https://github.com/user-attachments/assets/c872b520-ded7-4e2c-b35c-0f88cf712987)** 
