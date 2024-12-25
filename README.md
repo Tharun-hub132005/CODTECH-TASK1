@@ -14,6 +14,14 @@ JavaScript.
 **HTML:** it is the main programming language in full stach development <br>
 **CSS:** It is used for defining the styles for web pages <br>
 **Javascript:** It used to create interactive web pages and application<br>
+## key components 
+**web design**
+**Web development**
+**SEO**
+**content writing**
+**wordpress devt**
+**video editing**
+
 **![Screenshot (31)](https://github.com/user-attachments/assets/2e70e3be-b14d-49b3-afa2-d63a89e35d1d)** 
 
 **![Screenshot (32)](https://github.com/user-attachments/assets/c872b520-ded7-4e2c-b35c-0f88cf712987)** 
