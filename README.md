@@ -15,12 +15,12 @@ JavaScript.
 **CSS:** It is used for defining the styles for web pages <br>
 **Javascript:** It used to create interactive web pages and application<br>
 ## key components 
-**web design**
-**Web development**
-**SEO**
-**content writing**
-**wordpress devt**
-**video editing**
+**web design**<br>
+**Web development**<br>
+**SEO**<br>
+**content writing**<br>
+**wordpress devt**<br>
+**video editing**<br>
 
 **![Screenshot (31)](https://github.com/user-attachments/assets/2e70e3be-b14d-49b3-afa2-d63a89e35d1d)** 
 
